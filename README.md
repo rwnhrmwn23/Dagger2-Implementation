@@ -1,6 +1,6 @@
 # Dagger2-Implementation
 
-this repository is the result of my learning about dependency injection using jadagger2
+this repository is the result of my learning about dependency injection using dagger2
 
 # Technology
 - MVVM (Model View ViewModel) Architecture
